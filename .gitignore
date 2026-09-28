@@ -66,3 +66,5 @@ data/raw/CRMLSSold202607.csv
 data/raw/CRMLSSold202608.csv
 data/processed/CRMLSListing_Residential.csv
 data/processed/CRMLSListing.csv
+data/processed/CRMLSSold.csv
+data/processed/CRMLSSold_Residential.csv
