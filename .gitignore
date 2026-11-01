@@ -74,3 +74,7 @@ data/processed/CRMLSListing_Residential_With_Rates.csv
 data/processed/CRMLSSold_Residential_With_Rates.csv
 data/processed/listings_final.csv
 data/processed/sold_final.csv
+data/processed/CRMLSListings_Clean.csv
+data/processed/CRMLSSold_Clean.csv
+data/processed/CRMLSListings_Clean.pkl
+data/processed/CRMLSSold_Clean.pkl
