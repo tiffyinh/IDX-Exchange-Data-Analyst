@@ -78,3 +78,8 @@ data/processed/CRMLSListings_Clean.csv
 data/processed/CRMLSSold_Clean.csv
 data/processed/CRMLSListings_Clean.pkl
 data/processed/CRMLSSold_Clean.pkl
+data/processed/CRMLSListings_Engineered.csv
+data/processed/CRMLSListings_Engineered.pkl
+data/processed/CRMLSSold_Engineered.csv
+data/processed/CRMLSSold_Engineered.pkl
+data/raw/CASchoolDistricts.geojson
