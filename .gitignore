@@ -83,3 +83,7 @@ data/processed/CRMLSListings_Engineered.pkl
 data/processed/CRMLSSold_Engineered.csv
 data/processed/CRMLSSold_Engineered.pkl
 data/raw/CASchoolDistricts.geojson
+data/processed/CRMLSListings_OutlierFlagged.csv
+data/processed/CRMLSListings_OutlierFlagged.pkl
+data/processed/CRMLSSold_OutlierFlagged.csv
+data/processed/CRMLSSold_OutlierFlagged.pkl
